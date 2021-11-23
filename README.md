@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Offensive security
 - 💞️ I’m looking to collaborate on small Python projects
 - 📫 How to reach me dshahzad02@protonmail.com
+-                               gmail.com
 
